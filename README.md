@@ -29,3 +29,6 @@
 - LLM 架构探索（[archspace](https://github.com/InternLM/archspace)）
 - 多 Agent 协作 + RAG（[hello-xiao-a](https://github.com/kingoftaro/hello-xiao-a)）
 - AI 安全 / 威胁情报（[deepdarkCTI](https://github.com/fastfire/deepdarkCTI)）
+
+### 📮联系方式
+- 3284893084@qq.com 

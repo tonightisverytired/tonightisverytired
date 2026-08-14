@@ -5,7 +5,7 @@
 ### 🧬 我正在做的事
 
 - **[all_in_ai](https://github.com/tonightisverytired/all_in_ai)**：从零搭建 AI Agent 编排框架，提供开箱即用的开发组件。不是因为市场上没有，是因为我想知道它到底怎么工作的。
-- **[agent_dna_momery](https://github.com/tonightisverytired/agent_dna_momery)**：探索 Agent 的"基因"——如何让 AI 自动完成需求分析→流程设计→代码实现。
+- **[agent_dna_momery](https://github.com/tonightisverytired/agent_dna_momery)**：探索 Agent 记忆 ——如何让 AI 在长期场景下能更贴和人的日常,成为懂你的"人"。
 - **[sb_coding](https://github.com/tonightisverytired/sb_coding)**：Vibe Coding 的实践工具箱。
 - **接下来的事:**   componentized hermes >>>ai个性化养成
 ### 🔄 我的职业生涯
@@ -31,4 +31,4 @@
 - AI 安全 / 威胁情报（[deepdarkCTI](https://github.com/fastfire/deepdarkCTI)）
 
 ### 📮联系方式
-- 3284893084@qq.com 
+- 17551866657@163.com

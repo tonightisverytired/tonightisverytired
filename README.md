@@ -7,7 +7,7 @@
 - **[all_in_ai](https://github.com/tonightisverytired/all_in_ai)**：从零搭建 AI Agent 编排框架，提供开箱即用的开发组件。不是因为市场上没有，是因为我想知道它到底怎么工作的。
 - **[agent_dna_momery](https://github.com/tonightisverytired/agent_dna_momery)**：探索 Agent 记忆 ——如何让 AI 在长期场景下能更贴和人的日常,成为懂你的"人"。
 - **[sb_coding](https://github.com/tonightisverytired/sb_coding)**：Vibe Coding 的实践工具箱。
-- **接下来的事:**   componentized hermes >>>ai个性化养成
+- **接下来的事:**   componentized hermes >>>Agentic 个性化配置、养成
 ### 🔄 我的职业生涯
 
 - 2022: Java 后端 → Spring/MySQL、sqlboy

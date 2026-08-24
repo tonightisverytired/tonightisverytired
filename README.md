@@ -9,7 +9,7 @@
 - **[sb_coding](https://github.com/tonightisverytired/sb_coding)**：Vibe Coding 的实践工具箱。
 - **接下来的事:**   componentized hermes >>>Agentic 个性化配置、养成
 ### 🔄 我的职业生涯
-
+- 2021: Java 后端 → Spring/MySQL
 - 2022: Java 后端 → Spring/MySQL、sqlboy
 - 2023: 系统学深度学习（李沐 + 吴恩达 + Pytorch） + 幸得项目组内的cv大佬部分传承 🙏🙏🙏
 - 2024: 开发的项目稳稳上生产,俺也是双语达人了

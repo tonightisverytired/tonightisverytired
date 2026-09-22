@@ -24,11 +24,5 @@
 - **AI 是风暴。** 技术平权后，全民大开发时代来临，见证历史最大软件垃圾堆诞生。
 - **Vibe Coding + Agent money = 未来。** 当需求能被准确描述，代码就应该能被自动生成。
 
-### ⭐ 我在追的方向
-
-- LLM 架构探索（[archspace](https://github.com/InternLM/archspace)）
-- 多 Agent 协作 + RAG（[hello-xiao-a](https://github.com/kingoftaro/hello-xiao-a)）
-- AI 安全 / 威胁情报（[deepdarkCTI](https://github.com/fastfire/deepdarkCTI)）
-
 ### 📮联系方式
 - 17551866657@163.com
